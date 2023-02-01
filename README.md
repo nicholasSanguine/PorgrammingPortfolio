@@ -11,3 +11,7 @@ How do we get there?
 2. I am going to end up doing a writeup on material stresses
 3. Take information from a wide variety of verteces within the meshes.
 4. Make the user be able to build something with it.
+
+
+
+https://mrdoob.com/#/144/magic_dust <- potential other option for showing off when clicked into maybe a blog posting on it.
